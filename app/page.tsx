@@ -27,8 +27,6 @@ export default function HomePage() {
     setAllUsersDetails(filterUsers)
   }
 
-  console.log('allUsersDetails',allUsersDetails);
-
   return (
     <div style={{ margin: "30px" }}>
       <Grid>

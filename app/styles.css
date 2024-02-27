@@ -1,0 +1,19 @@
+.circle-carrier-initials {
+    align-items: center;
+    background-color: #228BE6;
+    border-radius: 50%;
+    border: 1px solid #228BE6;
+    color: #fff;
+    cursor: pointer;
+    display: flex;
+    font-weight: 500;
+    font-size: xx-large;
+    height: 100px;
+    justify-content: center;
+    line-height: 1;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100px;
+}
